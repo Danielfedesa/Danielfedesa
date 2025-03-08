@@ -49,7 +49,7 @@ La aplicación integra <strong>Firebase Authentication</strong> para la gestión
 <p>Proyecto en proceso de desarrollo o edición.</p>
 
 <!-- Espacios extra para alinear con el Proyecto 1 -->
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
   
 </div>
 </td>
@@ -100,8 +100,8 @@ La aplicación integra <strong>Firebase Authentication</strong> para la gestión
 
 <p align="center">
   <a href="https://github.com/Danielfedesa">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danielfedesa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danielfedesa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a> <a href="https://github.com/Danielfedesa">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danielfedesa&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danielfedesa&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>

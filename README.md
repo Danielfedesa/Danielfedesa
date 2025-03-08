@@ -96,11 +96,12 @@ La aplicación integra <strong>Firebase Authentication</strong> para la gestión
 </table>
 
 <br>
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+## ⚙️ GitHub Analytics
+
+<div align="center">
 <a href="https://github.com/Danielfedesa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danielfedesa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danielfedesa&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danielfedesa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="display: inline-block;"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danielfedesa&layout=compact&langs_count=8&theme=algolia" style="display: inline-block;"/>
 </a>
-</p>
+</div>

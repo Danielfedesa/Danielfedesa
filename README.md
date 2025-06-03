@@ -4,10 +4,10 @@
 
 ## Sobre mi
 
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en España.  
+- 🎓 Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en España.  
 - 🚀 Apasionado por el desarrollo de software y las aplicaciones móviles.  
 - 💡 Interesado en seguir aprendiendo y creciendo en el mundo del desarrollo.  
-- 📚 Conocimientos en **Java, Python, Kotlin, Firebase y MySQL**.  
+- 📚 Tecnologías principales: **Java, Python, Kotlin, Firebase y MySQL**.  
 - 🏗️ Actualmente desarrollando proyectos personales y ampliando mis habilidades.  
 <br>
 
